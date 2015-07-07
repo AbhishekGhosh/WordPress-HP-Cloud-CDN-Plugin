@@ -3,6 +3,8 @@ WordPress HP Cloud CDN or OpenStack Shell Plugin Adds a Web Shell to the instanc
 
 USE a TAGGED Version to install inside WordPress Plugin.
 
+THIS IS, FACTUALLY A SHORTCUT TO HARDWORK. We do not need the OpenStack PHP library.
+
 This is an Alpha release.
 This is release bears no credit as it is for testing vulnerabilities. All credits will be given. 
 This does not uses the PHP library.
