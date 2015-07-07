@@ -477,7 +477,6 @@ $HOME_DIRECTORY = '';
     }
 
 ?> 
-// we ended one class
 <?php
 // Initializing
 if (!isset($ACCOUNTS)) $ACCOUNTS = array();
